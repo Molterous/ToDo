@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781762284970",
+    "project_id": "travellingbuddy-bb7c8",
+    "storage_bucket": "travellingbuddy-bb7c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781762284970:android:43c487fb9be173284defd3",
+        "android_client_info": {
+          "package_name": "com.example.travellingbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781762284970-2iaokrgmavumfktrlvhaur5vrsh81ra6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc8fyOt-n6GwVIkAVfDVeY3SkRVb813ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781762284970-2iaokrgmavumfktrlvhaur5vrsh81ra6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
